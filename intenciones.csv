@@ -1,0 +1,626 @@
+texto,etiqueta
+Quiero saber las palabras clave de: Los árboles crecen en primavera.,extraer_palabras_clave
+Extrae las palabras más importantes de esta frase: El cielo es azul y los pájaros cantan.,extraer_palabras_clave
+Sugiéreme una película clásica,recomendar_contenido
+Dame una serie de ciencia ficción,recomendar_contenido
+¿Qué serie me sugieres para ver en Netflix,recomendar_contenido
+"Quiero ver algo divertido, ¿qué me das?",recomendar_contenido
+¿Qué documental interesante hay?.,recomendar_contenido
+¿Qué puedo ver en Amazon Prime,recomendar_contenido
+¿Puedes decirme qué funciones tienes?.,chatbot_info
+"Frase: Hoy cociné una lasaña deliciosa, ¿cuáles son las palabras clave",extraer_palabras_clave
+¿Eres un robot?,chatbot_info
+Texto: El sol brilla intensamente en verano,extraer_palabras_clave
+¿Qué me recomiendas si me gusta la acción?,recomendar_contenido
+Palabras clave de esta frase: La medicina moderna ha salvado muchas vidas,extraer_palabras_clave
+¿Qué película animada me sugieres?,recomendar_contenido
+¿Tienes alguna especialidad?.,chatbot_info
+¿Qué palabras son clave en esta oración: Estoy escribiendo una novela de fantasía,extraer_palabras_clave
+¿Cuál es tu objetivo?,chatbot_info
+"Frase: El gato duerme en la silla, ¿cuáles son las palabras más importantes?.",extraer_palabras_clave
+¿Puedes decirme qué funciones tienes?.,chatbot_info
+Películas de terror recomendadas,recomendar_contenido
+¿Qué palabras clave hay en esta oración: Me encanta leer libros de ciencia ficción,extraer_palabras_clave
+Una buena película para ver con amigos,recomendar_contenido
+Palabras clave de este mensaje: El café caliente me despierta por la mañana,extraer_palabras_clave
+Películas de terror recomendadas,recomendar_contenido
+Extrae las palabras más importantes de esta oración: Ayer visité un museo de historia,extraer_palabras_clave
+¿Cuáles son tus habilidades?,chatbot_info
+¿Eres una inteligencia artificial?,chatbot_info
+Dime qué es importante en esta frase: El internet es esencial en nuestra vida diaria.,extraer_palabras_clave
+Recomiéndame una película de acción,recomendar_contenido
+Palabras clave de: Me gusta caminar por la playa al atardecer,extraer_palabras_clave
+Frase para analizar: Las plantas necesitan agua y luz para crecer,extraer_palabras_clave
+¿Puedes explicarme qué haces,chatbot_info
+¿Cuál es tu trabajo,chatbot_info
+Palabras clave: Los niños juegan en el parque después de la escuela.,extraer_palabras_clave
+¿Qué serie me sugieres para ver en Netflix?,recomendar_contenido
+¿Cuál es tu trabajo,chatbot_info
+¿Qué me recomiendas si me gusta la acción,recomendar_contenido
+¿Qué tareas puedes realizar?,chatbot_info
+¿Puedes aprender cosas nuevas,chatbot_info
+¿Puedes hablar de ti mismo,chatbot_info
+¿Cuál es tu función principal?,chatbot_info
+¿Qué puedes hacer?.,chatbot_info
+Películas que valgan la pena ver,recomendar_contenido
+¿Puedes decirme qué funciones tienes?,chatbot_info
+¿Qué me recomiendas para ver este fin de semana?,recomendar_contenido
+¿Qué tipo de cosas sabes hacer,chatbot_info
+Explícame qué eres,chatbot_info
+Recomiéndame una serie corta,recomendar_contenido
+¿Qué tipo de cosas sabes hacer,chatbot_info
+¿Qué idiomas hablas?.,chatbot_info
+¿Puedes explicarme qué haces?.,chatbot_info
+¿Cómo te describirías?,chatbot_info
+¿Tienes nombre,chatbot_info
+Películas que valgan la pena ver,recomendar_contenido
+¿Para qué sirves?,chatbot_info
+Recomiéndame una película de acción,recomendar_contenido
+¿Tienes nombre?.,chatbot_info
+Dame una serie que esté de moda,recomendar_contenido
+Dame una recomendación de serie para maratón,recomendar_contenido
+Películas buenas del 2023,recomendar_contenido
+¿Tienes alguna especialidad?,chatbot_info
+¿Qué tipo de cosas sabes hacer?,chatbot_info
+"Quiero ver algo divertido, ¿qué me das",recomendar_contenido
+Palabras clave de: Me gusta caminar por la playa al atardecer,extraer_palabras_clave
+¿Qué palabras clave hay en esta oración: Me encanta leer libros de ciencia ficción?.,extraer_palabras_clave
+Dame una comedia romántica,recomendar_contenido
+Palabras clave de este mensaje: El café caliente me despierta por la mañana,extraer_palabras_clave
+Películas buenas del 2023.,recomendar_contenido
+¿Qué serie me sugieres para ver en Netflix,recomendar_contenido
+Háblame sobre ti,chatbot_info
+Señálame las palabras importantes de: Hoy llovió toda la tarde,extraer_palabras_clave
+¿Qué puedes hacer?,chatbot_info
+¿Qué película animada me sugieres?,recomendar_contenido
+Quiero saber las palabras clave de: Los árboles crecen en primavera,extraer_palabras_clave
+¿Para qué sirves?.,chatbot_info
+Una buena película para ver con amigos,recomendar_contenido
+¿Tienes algún conocimiento específico?,chatbot_info
+Háblame sobre ti,chatbot_info
+¿Dónde vives?,chatbot_info
+Quiero extraer lo más importante de este texto: Viajar es una experiencia enriquecedora,extraer_palabras_clave
+¿En qué temas puedes ayudarme?.,chatbot_info
+¿Dónde vives,chatbot_info
+Saca las palabras importantes de: Prefiero los libros de misterio a los de romance.,extraer_palabras_clave
+¿Qué serie es tendencia ahora?,recomendar_contenido
+Encuentra lo más relevante en: Me gusta ver documentales sobre el espacio,extraer_palabras_clave
+Palabras clave de esta frase: La medicina moderna ha salvado muchas vidas,extraer_palabras_clave
+¿Cuáles son tus habilidades?,chatbot_info
+¿Qué idiomas hablas,chatbot_info
+Palabras clave: Los niños juegan en el parque después de la escuela,extraer_palabras_clave
+Señálame las palabras importantes de: Hoy llovió toda la tarde,extraer_palabras_clave
+¿Quién eres?.,chatbot_info
+Dame algo que te parezca interesante para ver,recomendar_contenido
+¿Qué serie tiene buenos personajes?,recomendar_contenido
+¿Qué puedo ver en Amazon Prime,recomendar_contenido
+Dime qué es importante en esta frase: El internet es esencial en nuestra vida diaria,extraer_palabras_clave
+¿Puedes sacar lo más importante de: Mi perro ladra cuando escucha ruidos extraños,extraer_palabras_clave
+Saca las palabras importantes de: Prefiero los libros de misterio a los de romance,extraer_palabras_clave
+¿Quién te creó?,chatbot_info
+Recomiéndame algo nuevo para ver.,recomendar_contenido
+Palabras clave de esta oración: Me gusta escuchar música clásica por las noches,extraer_palabras_clave
+¿Qué me recomiendas para ver este fin de semana?,recomendar_contenido
+Señálame las palabras importantes de: Hoy llovió toda la tarde,extraer_palabras_clave
+¿Qué puedes hacer?,chatbot_info
+¿Cuáles son las palabras clave de 'Estoy estudiando programación todos los días',extraer_palabras_clave
+Encuentra las palabras clave: Aprendo nuevas recetas de cocina cada semana,extraer_palabras_clave
+¿Qué me recomiendas para ver este fin de semana,recomendar_contenido
+¿Puedes sacar lo más importante de: Mi perro ladra cuando escucha ruidos extraños?.,extraer_palabras_clave
+¿Qué documental interesante hay?,recomendar_contenido
+¿Alguna película romántica para ver hoy?,recomendar_contenido
+¿Cuál es tu objetivo?,chatbot_info
+¿Cuál es tu propósito,chatbot_info
+¿Eres una inteligencia artificial?,chatbot_info
+"Frase: El gato duerme en la silla, ¿cuáles son las palabras más importantes",extraer_palabras_clave
+Texto: El sol brilla intensamente en verano,extraer_palabras_clave
+¿Qué serie es tendencia ahora?,recomendar_contenido
+Dime las palabras importantes en: Estamos organizando un viaje a la montaña,extraer_palabras_clave
+¿Cuál es tu trabajo?,chatbot_info
+Dime qué es importante en esta frase: El internet es esencial en nuestra vida diaria,extraer_palabras_clave
+Dame una serie de ciencia ficción,recomendar_contenido
+¿Quién eres,chatbot_info
+Dime las palabras importantes en: Estamos organizando un viaje a la montaña.,extraer_palabras_clave
+¿Hay algo bueno en Disney+?.,recomendar_contenido
+Extrae las palabras más importantes de esta oración: Ayer visité un museo de historia.,extraer_palabras_clave
+¿Eres un asistente virtual?,chatbot_info
+¿Qué puedes hacer?.,chatbot_info
+"Quiero ver algo divertido, ¿qué me das",recomendar_contenido
+¿Qué película animada me sugieres,recomendar_contenido
+¿Qué idiomas hablas,chatbot_info
+¿Qué palabras son clave en esta oración: Estoy escribiendo una novela de fantasía,extraer_palabras_clave
+Recomiéndame una serie corta.,recomendar_contenido
+¿Eres un asistente virtual?.,chatbot_info
+¿Eres un asistente virtual?.,chatbot_info
+¿Qué serie es tendencia ahora?.,recomendar_contenido
+¿Qué palabras son importantes en: El arte moderno es muy subjetivo?,extraer_palabras_clave
+¿En qué temas puedes ayudarme?,chatbot_info
+Frase para analizar: Las plantas necesitan agua y luz para crecer,extraer_palabras_clave
+¿Eres un asistente virtual?,chatbot_info
+¿Cuál es tu función principal,chatbot_info
+Dame una serie de ciencia ficción,recomendar_contenido
+¿Alguna película romántica para ver hoy?,recomendar_contenido
+Recomiéndame algo nuevo para ver.,recomendar_contenido
+¿Cuáles son las palabras clave de 'Estoy estudiando programación todos los días'?.,extraer_palabras_clave
+Sugiere algo para ver en familia.,recomendar_contenido
+Extrae las palabras más importantes de esta oración: Ayer visité un museo de historia,extraer_palabras_clave
+¿Qué puedo ver en Amazon Prime?,recomendar_contenido
+¿Qué palabras son importantes en: El arte moderno es muy subjetivo,extraer_palabras_clave
+Dame una serie que esté de moda.,recomendar_contenido
+Explícame qué eres.,chatbot_info
+¿Qué tareas puedes realizar?,chatbot_info
+¿Cuál es tu propósito?.,chatbot_info
+¿Quién eres?.,chatbot_info
+Dame una buena película para el fin de semana.,recomendar_contenido
+¿Quién te creó?,chatbot_info
+Señálame las palabras importantes de: Hoy llovió toda la tarde,extraer_palabras_clave
+Quiero extraer lo más importante de este texto: Viajar es una experiencia enriquecedora,extraer_palabras_clave
+¿Cómo te describirías,chatbot_info
+Sugiere una película de suspenso,recomendar_contenido
+"Frase: Hoy cociné una lasaña deliciosa, ¿cuáles son las palabras clave?",extraer_palabras_clave
+Recomiéndame una película de acción,recomendar_contenido
+¿Tienes nombre?,chatbot_info
+Frase: Estoy aprendiendo a programar con Python.,extraer_palabras_clave
+¿Puedes sacar lo más importante de: Mi perro ladra cuando escucha ruidos extraños,extraer_palabras_clave
+¿Qué película ganadora del Oscar me recomiendas?,recomendar_contenido
+¿Qué tipo de cosas sabes hacer?,chatbot_info
+¿Qué palabras clave hay en esta oración: Me encanta leer libros de ciencia ficción?,extraer_palabras_clave
+"Texto: Los autos eléctricos son cada vez más populares, ¿cuáles son las palabras clave?.",extraer_palabras_clave
+Quiero saber más sobre ti,chatbot_info
+¿Qué puedo ver si me gusta el drama?,recomendar_contenido
+¿Tienes alguna especialidad?,chatbot_info
+Texto: Los pájaros migran al sur en invierno,extraer_palabras_clave
+¿Qué palabras son clave en esta oración: Estoy escribiendo una novela de fantasía?.,extraer_palabras_clave
+"Frase: El gato duerme en la silla, ¿cuáles son las palabras más importantes?",extraer_palabras_clave
+Texto: El sol brilla intensamente en verano.,extraer_palabras_clave
+¿Qué me recomiendas si me gusta la acción?,recomendar_contenido
+Extrae las palabras más importantes de esta frase: El cielo es azul y los pájaros cantan,extraer_palabras_clave
+Háblame sobre ti.,chatbot_info
+Quiero saber las palabras clave de: Los árboles crecen en primavera,extraer_palabras_clave
+Dame algo que te parezca interesante para ver.,recomendar_contenido
+Dime las palabras clave de este texto: La tecnología avanza rápidamente.,extraer_palabras_clave
+¿Cuáles son las palabras clave de 'Estoy estudiando programación todos los días',extraer_palabras_clave
+¿Cómo te describirías,chatbot_info
+¿Alguna película romántica para ver hoy?,recomendar_contenido
+¿Qué película ganadora del Oscar me recomiendas?,recomendar_contenido
+Palabras clave de esta oración: Me gusta escuchar música clásica por las noches,extraer_palabras_clave
+"Texto: Los autos eléctricos son cada vez más populares, ¿cuáles son las palabras clave",extraer_palabras_clave
+Películas de terror recomendadas,recomendar_contenido
+Películas buenas del 2023.,recomendar_contenido
+Texto: La educación es clave para el desarrollo social,extraer_palabras_clave
+Frase: Estoy aprendiendo a programar con Python,extraer_palabras_clave
+¿Qué puedo ver si me gusta el drama?.,recomendar_contenido
+Sugiere una película de suspenso.,recomendar_contenido
+Sugiere algo para ver en familia,recomendar_contenido
+¿Qué tareas puedes realizar?,chatbot_info
+Dame una buena película para el fin de semana.,recomendar_contenido
+¿Qué palabras son importantes en: El arte moderno es muy subjetivo?,extraer_palabras_clave
+Películas que valgan la pena ver,recomendar_contenido
+Texto: Los pájaros migran al sur en invierno.,extraer_palabras_clave
+Dame una comedia romántica.,recomendar_contenido
+Frase para analizar: Disfruto de las caminatas en la naturaleza,extraer_palabras_clave
+Dime las palabras importantes en: Estamos organizando un viaje a la montaña,extraer_palabras_clave
+¿Cuáles son las palabras clave de 'Estoy estudiando programación todos los días'?.,extraer_palabras_clave
+¿Cómo fuiste entrenado?,chatbot_info
+¿Puedes decirme qué funciones tienes?.,chatbot_info
+Dame una recomendación de serie para maratón,recomendar_contenido
+¿Alguna película romántica para ver hoy?,recomendar_contenido
+¿Tienes algún conocimiento específico?,chatbot_info
+¿Cuál es tu objetivo?,chatbot_info
+Recomiéndame una serie corta,recomendar_contenido
+Sugiere una comedia para esta noche.,recomendar_contenido
+¿Para qué sirves?.,chatbot_info
+Dame algo que te parezca interesante para ver,recomendar_contenido
+Películas de terror recomendadas.,recomendar_contenido
+¿Eres un robot,chatbot_info
+Encuentra las palabras clave: Aprendo nuevas recetas de cocina cada semana.,extraer_palabras_clave
+Quiero saber más sobre ti.,chatbot_info
+¿Qué palabras clave hay en esta oración: Me encanta leer libros de ciencia ficción?.,extraer_palabras_clave
+Palabras clave de: Me gusta caminar por la playa al atardecer,extraer_palabras_clave
+Encuentra lo más relevante en: Me gusta ver documentales sobre el espacio,extraer_palabras_clave
+¿Cuál es tu propósito,chatbot_info
+¿Cuáles son tus habilidades,chatbot_info
+Palabras clave de este mensaje: El café caliente me despierta por la mañana,extraer_palabras_clave
+¿Puedes hablar de ti mismo?,chatbot_info
+Quiero saber más sobre ti,chatbot_info
+Recomiéndame algo nuevo para ver.,recomendar_contenido
+Sugiere una comedia para esta noche,recomendar_contenido
+Extrae las palabras más importantes de esta frase: El cielo es azul y los pájaros cantan,extraer_palabras_clave
+¿Tienes emociones?,chatbot_info
+¿Puedes explicarme qué haces?,chatbot_info
+¿Qué puedo ver en Amazon Prime,recomendar_contenido
+¿Cuál es tu propósito,chatbot_info
+¿Qué documental interesante hay?,recomendar_contenido
+Quiero saber más sobre ti,chatbot_info
+Háblame sobre ti,chatbot_info
+Quiero saber las palabras clave de: Los árboles crecen en primavera,extraer_palabras_clave
+Sugiere una comedia para esta noche,recomendar_contenido
+¿Qué puedo ver si me gusta el drama,recomendar_contenido
+Dame una serie que esté de moda,recomendar_contenido
+Texto: La educación es clave para el desarrollo social,extraer_palabras_clave
+¿Tienes algún conocimiento específico?.,chatbot_info
+Dime las palabras clave de este texto: La tecnología avanza rápidamente,extraer_palabras_clave
+Frase para analizar: Las plantas necesitan agua y luz para crecer,extraer_palabras_clave
+Sugiere una comedia para esta noche,recomendar_contenido
+¿Dónde vives?.,chatbot_info
+Frase para analizar: Disfruto de las caminatas en la naturaleza.,extraer_palabras_clave
+Palabras clave: Los niños juegan en el parque después de la escuela.,extraer_palabras_clave
+Recomiéndame una serie corta,recomendar_contenido
+Dame una buena película para el fin de semana,recomendar_contenido
+Dime las palabras clave de este texto: La tecnología avanza rápidamente,extraer_palabras_clave
+¿En qué temas puedes ayudarme?,chatbot_info
+¿Tienes emociones?.,chatbot_info
+Quiero extraer lo más importante de este texto: Viajar es una experiencia enriquecedora.,extraer_palabras_clave
+¿Hay algo bueno en Disney+?.,recomendar_contenido
+¿Puedes aprender cosas nuevas?.,chatbot_info
+Frase: Estoy aprendiendo a programar con Python,extraer_palabras_clave
+¿Cómo fuiste entrenado,chatbot_info
+Palabras clave de esta oración: Me gusta escuchar música clásica por las noches,extraer_palabras_clave
+Palabras clave: Los niños juegan en el parque después de la escuela,extraer_palabras_clave
+Recomiéndame una película de acción,recomendar_contenido
+Texto: La educación es clave para el desarrollo social,extraer_palabras_clave
+Saca las palabras importantes de: Prefiero los libros de misterio a los de romance.,extraer_palabras_clave
+Encuentra lo más relevante en: Me gusta ver documentales sobre el espacio.,extraer_palabras_clave
+"Frase: Hoy cociné una lasaña deliciosa, ¿cuáles son las palabras clave?.",extraer_palabras_clave
+¿Cuál es tu función principal?,chatbot_info
+Encuentra las palabras clave: Aprendo nuevas recetas de cocina cada semana,extraer_palabras_clave
+Texto: Los pájaros migran al sur en invierno,extraer_palabras_clave
+Sugiéreme una película clásica,recomendar_contenido
+¿Qué serie tiene buenos personajes?,recomendar_contenido
+Una buena película para ver con amigos,recomendar_contenido
+¿Eres un robot?,chatbot_info
+"Texto: Los autos eléctricos son cada vez más populares, ¿cuáles son las palabras clave?",extraer_palabras_clave
+Frase para analizar: Disfruto de las caminatas en la naturaleza.,extraer_palabras_clave
+¿Hay algo bueno en Disney+?,recomendar_contenido
+¿Qué película animada me sugieres?,recomendar_contenido
+¿Qué serie tiene buenos personajes?,recomendar_contenido
+Dame una comedia romántica,recomendar_contenido
+¿Cómo fuiste entrenado?,chatbot_info
+¿Eres una inteligencia artificial?.,chatbot_info
+¿Qué película ganadora del Oscar me recomiendas?,recomendar_contenido
+Palabras clave de esta frase: La medicina moderna ha salvado muchas vidas.,extraer_palabras_clave
+¿Para qué sirves?,chatbot_info
+¿Tienes emociones?,chatbot_info
+Dame una recomendación de serie para maratón.,recomendar_contenido
+Dame una serie que esté de moda,recomendar_contenido
+Dame una buena película para el fin de semana,recomendar_contenido
+Explícame qué eres,chatbot_info
+Sugiéreme una película clásica,recomendar_contenido
+¿Eres un robot,chatbot_info
+¿Qué serie me sugieres para ver en Netflix?,recomendar_contenido
+Sugiere una película de suspenso,recomendar_contenido
+Encuentra las palabras clave: Aprendo nuevas recetas de cocina cada semana,extraer_palabras_clave
+¿Quién te creó?,chatbot_info
+¿Puedes aprender cosas nuevas?,chatbot_info
+¿Quién eres,chatbot_info
+Palabras clave de: Me gusta caminar por la playa al atardecer,extraer_palabras_clave
+Extrae las palabras más importantes de esta frase: El cielo es azul y los pájaros cantan,extraer_palabras_clave
+"Frase: El gato duerme en la silla, ¿cuáles son las palabras más importantes",extraer_palabras_clave
+Sugiere algo para ver en familia,recomendar_contenido
+Dime las palabras clave de este texto: La tecnología avanza rápidamente.,extraer_palabras_clave
+¿Puedes hablar de ti mismo?,chatbot_info
+Hola,saludo
+Buenos días,saludo
+Buenas tardes,saludo
+Buenas noches,saludo
+¿Qué tal?,saludo
+¿Cómo estás?,saludo
+¿Cómo te va?,saludo
+Un gusto verte,saludo
+Encantado de conocerte,saludo
+Mucho gusto,saludo
+"Hola, ¿cómo andas?",saludo
+Qué onda,saludo
+Epa,saludo
+Aló,saludo
+Buen día,saludo
+Linda tarde,saludo
+Feliz noche,saludo
+¿Todo bien?,saludo
+¿Qué cuentas?,saludo
+¿Novedades?,saludo
+¿Cómo te trata la vida?,saludo
+¿Qué me cuentas de nuevo?,saludo
+"Hola, un placer saludarte",saludo
+"Buenos días, espero que tengas un excelente día",saludo
+"Buenas tardes, que disfrutes tu tarde",saludo
+"Buenas noches, que descanses",saludo
+¿Qué tal todo por ahí?,saludo
+¿Cómo va eso?,saludo
+¿Qué se dice?,saludo
+Saludos cordiales,saludo
+Atentamente,saludo
+Un saludo,saludo
+Te saludo,saludo
+Les saludo,saludo
+Hola a todos,saludo
+Buenos días a todos,saludo
+Buenas tardes a todos,saludo
+Buenas noches a todos,saludo
+¿Cómo les va?,saludo
+¿Todo tranquilo?,saludo
+¿Alguna novedad?,saludo
+¿Qué pasa?,saludo
+¿Qué onda contigo?,saludo
+¿Bien o qué?,saludo
+¿Todo bien por casa?,saludo
+¿Cómo anda la familia?,saludo
+¿Qué tal el día?,saludo
+¿Cómo estuvo tu día?,saludo
+Espero que estés bien,saludo
+Me da gusto saludarte,saludo
+Qué alegría verte,saludo
+Qué sorpresa verte,saludo
+No esperaba verte,saludo
+Mira quién está aquí,saludo
+"Hombre, cuánto tiempo",saludo
+"Mujer, qué gusto verte",saludo
+Hola de nuevo,saludo
+Saludos desde aquí,saludo
+Te mando un saludo,saludo
+Les envío un saludo,saludo
+Un abrazo,saludo
+Fuerte abrazo,saludo
+Abrazo grande,saludo
+Cariños,saludo
+Con cariño,saludo
+Mis mejores deseos,saludo
+Que tengas un buen día,saludo
+Que tengas una linda tarde,saludo
+Que tengas una feliz noche,saludo
+Que te vaya bien,saludo
+Cuídate mucho,saludo
+Nos vemos pronto,saludo
+Hasta luego,saludo
+Chao,saludo
+Adiós,saludo
+Hasta la próxima,saludo
+Que descanses,saludo
+Dulces sueños,saludo
+Felices sueños,saludo
+Que duermas bien,saludo
+Hasta mañana,saludo
+Buen fin de semana,saludo
+Feliz fin de semana,saludo
+Que disfrutes el fin de semana,saludo
+Nos vemos el lunes,saludo
+Que tengas un excelente inicio de semana,saludo
+Feliz inicio de semana,saludo
+Espero verte pronto,saludo
+Mantenemos contacto,saludo
+Estamos en contacto,saludo
+Hablamos luego,saludo
+Te llamo después,saludo
+Escríbeme pronto,saludo
+No te pierdas,saludo
+Qué gusto saludarte nuevamente,saludo
+Siempre es un placer saludarte,saludo
+Me alegra mucho verte,saludo
+Qué bueno verte por aquí,saludo
+Un saludo afectuoso,saludo
+Mis más sinceros saludos,saludo
+Recibe un cordial saludo,saludo
+Te envío mis más cálidos saludos,saludo
+Espero que todo esté bien contigo,saludo
+Deseo que tengas un excelente día,saludo
+Que tengas una jornada maravillosa,saludo
+Que todo te salga bien,saludo
+Mucha suerte,saludo
+Éxito,saludo
+Todo lo mejor para ti,saludo
+Mis mejores vibras,saludo
+Te deseo lo mejor,saludo
+Que seas muy feliz,saludo
+Que disfrutes mucho,saludo
+Pásala bien,saludo
+Diviértete,saludo
+Sonríe,saludo
+Sé feliz,saludo
+Disfruta cada momento,saludo
+Vive el presente,saludo
+Carpe diem,saludo
+Un saludo desde México,saludo
+Saludos desde Chimalhuacán,saludo
+Te saludo desde mi hogar,saludo
+Les saludo con mucho gusto,saludo
+Espero que esta frase te encuentre bien,saludo
+Que la alegría te acompañe,saludo
+Que tengas un día lleno de bendiciones,saludo
+Que la luz te guíe,saludo
+Paz y amor,saludo
+Mucha paz,saludo
+Todo mi cariño,saludo
+Con todo mi afecto,saludo
+Un fuerte abrazo virtual,saludo
+Te envío un abrazo a la distancia,saludo
+Saludos virtuales,saludo
+Nos vemos en línea,saludo
+Hasta el próximo mensaje,saludo
+Que tengas un excelente día en el trabajo,saludo
+Que te vaya muy bien en tus actividades,saludo
+Espero que tengas un día productivo,saludo
+Mucho ánimo,saludo
+Con buena energía,saludo
+Que nada te detenga,saludo
+Sigue adelante,saludo
+No te rindas,saludo
+Tú puedes con todo,saludo
+Eres fuerte,saludo
+Eres increíble,saludo
+Confío en ti,saludo
+Ten fe,saludo
+Nunca pierdas la esperanza,saludo
+Siempre positivo,saludo
+Mantén una actitud positiva,saludo
+La vida es bella,saludo
+Disfruta de las pequeñas cosas,saludo
+Sé agradecido,saludo
+Valora lo que tienes,saludo
+La felicidad está en ti,saludo
+Busca tu propia felicidad,saludo
+Sé tú mismo,saludo
+No cambies por nadie,saludo
+Eres único,saludo
+Eres especial,saludo
+Me caes muy bien,saludo
+Eres una gran persona,saludo
+Admiro tu fortaleza,saludo
+Respeto tu opinión,saludo
+Valoro tu amistad,saludo
+Gracias por tu tiempo,saludo
+Gracias por todo,saludo
+De nada,saludo
+Con gusto,saludo
+A tus órdenes,saludo
+Para servirte,saludo
+¿En qué puedo ayudarte?,saludo
+¿Necesitas algo?,saludo
+Avísame si necesitas algo,saludo
+Estoy aquí para lo que necesites,saludo
+No dudes en contactarme,saludo
+Aquí estoy,saludo
+Siempre presente,saludo
+Contigo siempre,saludo
+Te apoyo,saludo
+Estoy contigo,saludo
+No estás solo,saludo
+Somos un equipo,saludo
+Juntos podemos,saludo
+La unión hace la fuerza,saludo
+Ánimo equipo,saludo
+Vamos con todo,saludo
+A dar lo mejor de nosotros,saludo
+El éxito es nuestro,saludo
+Sí se puede,saludo
+Claro que sí,saludo
+Por supuesto,saludo
+Exacto,saludo
+Así es,saludo
+Tienes razón,saludo
+Estoy de acuerdo,saludo
+Me parece bien,saludo
+Excelente idea,saludo
+Qué buena noticia,saludo
+Me alegra mucho,saludo
+Qué bien,saludo
+Felicidades,saludo
+Enhorabuena,saludo
+Mis felicitaciones,saludo
+Te felicito,saludo
+Estoy orgulloso de ti,saludo
+Sigue así,saludo
+Vas por buen camino,saludo
+Eres un ejemplo a seguir,saludo
+Me inspiras,saludo
+Qué tengas un día maravilloso,saludo
+Que la magia te acompañe,saludo
+Que tus sueños se hagan realidad,saludo
+Que la vida te sonría,saludo
+Que todo lo bueno te siga,saludo
+Que la felicidad toque a tu puerta,saludo
+Que el amor te encuentre,saludo
+Que la salud te acompañe siempre,saludo
+Que la paz reine en tu corazón,saludo
+Que la alegría sea tu bandera,saludo
+Que la esperanza sea tu motor,saludo
+Que la fe sea tu guía,saludo
+Que la luz siempre ilumine tu camino,saludo
+Que los ángeles te protejan,saludo
+Que Dios te bendiga,saludo
+Un abrazo de corazón,saludo
+Te quiero mucho,saludo
+Eres importante para mí,saludo
+Significas mucho para mí,saludo
+Estoy agradecido por ti,saludo
+Gracias por ser parte de mi vida,saludo
+Eres un gran amigo,saludo
+Eres la mejor amiga del mundo,saludo
+Te extraño,saludo
+Te echo de menos,saludo
+Pensando en ti,saludo
+Recordándote,saludo
+Siempre en mi mente,saludo
+En mi corazón siempre,saludo
+No te olvido,saludo
+Te tengo presente,saludo
+Un recuerdo con cariño,saludo
+Con nostalgia te saludo,saludo
+Espero verte pronto,saludo
+Ya quiero verte,saludo
+La distancia no importa,saludo
+Siempre cerca,saludo
+Unidos por siempre,saludo
+Nuestra amistad es fuerte,saludo
+Gracias por tu amistad incondicional,saludo
+Valoro mucho nuestra conexión,saludo
+Eres un tesoro,saludo
+Cuida de ti,saludo
+Pórtate bien,saludo
+No hagas travesuras,saludo
+Juicio,saludo
+Sé responsable,saludo
+Ten cuidado,saludo
+Ojo,saludo
+Estate atento,saludo
+No te confíes,saludo
+Sé precavido,saludo
+Más vale prevenir que lamentar,saludo
+Todo estará bien,saludo
+No te preocupes,saludo
+Relájate,saludo
+Respira profundo,saludo
+Cálmate,saludo
+Tranquilo,saludo
+Paciencia,saludo
+Todo pasa,saludo
+Esto también pasará,saludo
+El tiempo lo cura todo,saludo
+No hay mal que dure cien años,saludo
+Después de la tormenta siempre sale el sol,saludo
+La esperanza es lo último que se pierde,saludo
+Nunca digas nunca,saludo
+El que persevera alcanza,saludo
+Querer es poder,saludo
+"Si lo crees, lo creas",saludo
+Los sueños se hacen realidad,saludo
+Lucha por tus sueños,saludo
+No te rindas jamás,saludo
+El límite lo pones tú,saludo
+Atrévete a soñar,saludo
+Persigue tus metas,saludo
+Alcanza tus objetivos,saludo
+Eres capaz de lograrlo,saludo
+Confía en tu potencial,saludo
+Cree en ti,saludo
+Tú tienes el poder,saludo
+Eres fuerte y valiente,saludo
+No tengas miedo,saludo
+Afronta tus miedos,saludo
+Supera tus obstáculos,saludo
+Vence tus desafíos,saludo
+Sal de tu zona de confort,saludo
+Explora nuevos caminos,saludo
+Descubre nuevas oportunidades,saludo
+Aprende cada día,saludo
+Nunca dejes de aprender,saludo
+El conocimiento es poder,saludo
+La educación es el futuro,saludo
+Invierte en ti mismo,saludo
+Cuida tu salud,saludo
+Aliméntate bien,saludo
+Haz ejercicio,saludo
+Descansa lo suficiente,saludo
+Relaja tu mente,saludo
+Medita,saludo
+Conéctate contigo mismo,saludo
+Encuentra tu paz interior,saludo
+Sé agradecido con la vida,saludo
+Valora cada instante,saludo
+Disfruta el presente,saludo
+Vive intensamente,saludo
+Sé feliz aquí y ahora,saludo
+Que tengas un excelente día lleno de alegría y bendiciones.,saludo
+Te envío un cordial saludo esperando que te encuentres muy bien.,saludo
+Con mucho cariño te mando un saludo y mis mejores deseos.,saludo
+Espero que este mensaje te encuentre disfrutando de un hermoso día.,saludo
+"Un gran saludo desde la distancia, esperando verte pronto.",saludo

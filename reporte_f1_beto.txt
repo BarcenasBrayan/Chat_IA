@@ -1,0 +1,10 @@
+                         precision    recall  f1-score   support
+
+       info_clave_texto       0.96      1.00      0.98        24
+recomendacion_peliculas       1.00      1.00      1.00        22
+              sobre_bot       1.00      1.00      1.00        18
+                 saludo       1.00      0.98      0.99        61
+
+               accuracy                           0.99       125
+              macro avg       0.99      1.00      0.99       125
+           weighted avg       0.99      0.99      0.99       125
